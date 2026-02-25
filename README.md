@@ -42,6 +42,11 @@ Este repositório contém meu portfólio de projetos e consultas desenvolvidas d
 * **Manipulação de Datas:** Extração de tendências mensais e anuais utilizando `FORMAT_TIMESTAMP` e `DATE`.
 * **Precisão Financeira:** Aplicação de arredondamentos com `ROUND` para cálculo de ticket médio.
 
+### 5. Tratamento e Manipulação de Strings
+* **Limpeza de Dados:** Uso de `TRIM` para remoção de caracteres indesejados e espaços em branco em campos de cadastro (como CPF e Nomes).
+* **Transformação Textual:** Padronização de nomes com `UPPER` e `LOWER` e extração de padrões específicos com `STARTS_WITH`.
+* **Desmembramento de Dados:** Aplicação de `SPLIT` com `ORDINAL` para separar informações compostas (como transformar "Nome Completo" em "Nome" e "Sobrenome").
+
 ---
 
 ### 🛠️ Matriz de Competências Técnicas
@@ -50,8 +55,9 @@ Este repositório contém meu portfólio de projetos e consultas desenvolvidas d
 | :--- | :--- |
 | **Junção de Dados** | `JOIN`, `INNER JOIN`, `MULTI-JOIN` |
 | **Agregações** | `COUNT`, `SUM`, `AVG`, `MIN`, `MAX`, `GROUP BY` |
-| **Lógica e Filtros** | `WHERE`, `CASE WHEN`, `IN`, `NOT IN`, `BETWEEN` |
+| **Lógica e Filtros** | `WHERE`, `CASE WHEN`, `IN`, `NOT IN`, `BETWEEN`, `STARTS_WITH` |
 | **Manipulação de Datas** | `DATE`, `FORMAT_TIMESTAMP` |
+| **Tratamento de Strings** | `SPLIT`, `TRIM`, `UPPER`, `LOWER`, `ORDINAL` |
 | **Limpeza e Organização** | `IS NULL`, `IS NOT NULL`, `AS (ALIAS)`, `LIMIT` |
 
 ---
@@ -68,6 +74,8 @@ O projeto está organizado por módulos temáticos para facilitar a navegação:
 * **`06-Modelagem-e-Uniao-de-Dados`**: Integração entre diferentes tabelas de vendas e produtos para visão 360º.
 * **`07-Agregacoes-e-Ordenacao`**: Resumos executivos de vendas, contagens condicionais e análise de causa raiz.
 * **`08-Analise-de-Performance`**: Cálculo de KPIs financeiros, ticket médio e análise de ciclo de vida (Recência).
+* **`09-Manipulacao-de-Strings-e-Data-Cleaning`**: Scripts focados em limpeza (`TRIM`), padronização (`UPPER`/`LOWER`) e desmembramento de dados (`SPLIT`).
+* **`10-Estudos-de-Caso`**: Aplicação prática de toda a caixa de ferramentas SQL para resolver desafios reais de negócio.
 
 ---
 
