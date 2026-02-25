@@ -1,5 +1,5 @@
 
-# 🚀 SQL Portfolio: Transformando Dados de E-commerce em Inteligência de Negócio
+# 🚀 SQL Portfolio: Data Analytics em E-commerce com Google BigQuery
 
 ## 📌 Sobre o Projeto
 
@@ -96,9 +96,9 @@ A tabela abaixo centraliza todo o fluxo da análise: desde a construção da ló
 
 | Estudo de Caso | 💻 Script SQL (Lógica) | 📸 Execução (BigQuery) | 📄 Resultado da Consulta |
 | :--- | :--- | :---: | :---: |
-| **01. Inteligência de Vendas** | [Ver Código SQL](./08-Analise-de-Performance/03-ticket-medio-e-arredondamentos.sql) | <img src="./09-Estudos-de-Caso/1-inteligencia-vendas-performance.png" width="140"> | [👁️ Visualizar Dados](./09-Estudos-de-Caso/1-inteligencia-vendas-performance.csv) |
-| **02. Gestão de Qualidade** | [Ver Código SQL](./07-Agregacoes-e-Ordenacao/04-analise-causa-raiz-devolucao.sql) | <img src="./09-Estudos-de-Caso/2-gestao-qualidade-logistica-reversa.png" width="140"> | [👁️ Visualizar Dados](./09-Estudos-de-Caso/2-gestao-qualidade-logistica-reversa.csv) |
-| **03. Estratégia de Marketing** | [Ver Código SQL](./08-Analise-de-Performance/02-ciclo-de-vida-cliente-recencia.sql) | <img src="./09-Estudos-de-Caso/3-estrategia-marketing-retencao.png" width="140"> | [👁️ Visualizar Dados](./09-Estudos-de-Caso/3-estrategia-marketing-retencao.csv) |
+| **01. Inteligência de Vendas** | [Ver Código SQL](./08-Analise-de-Performance/03-ticket-medio-e-arredondamentos.sql) | <img src="./09-Estudos-de-Caso/1-inteligencia-vendas-performance.png" width="300"> | [👁️ Visualizar Dados](./09-Estudos-de-Caso/1-inteligencia-vendas-performance.csv) |
+| **02. Gestão de Qualidade** | [Ver Código SQL](./07-Agregacoes-e-Ordenacao/04-analise-causa-raiz-devolucao.sql) | <img src="./09-Estudos-de-Caso/2-gestao-qualidade-logistica-reversa.png" width="300"> | [👁️ Visualizar Dados](./09-Estudos-de-Caso/2-gestao-qualidade-logistica-reversa.csv) |
+| **03. Estratégia de Marketing** | [Ver Código SQL](./08-Analise-de-Performance/02-ciclo-de-vida-cliente-recencia.sql) | <img src="./09-Estudos-de-Caso/3-estrategia-marketing-retencao.png" width="300"> | [👁️ Visualizar Dados](./09-Estudos-de-Caso/3-estrategia-marketing-retencao.csv) |
 
 ---
 
